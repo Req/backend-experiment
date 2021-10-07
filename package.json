@@ -1,0 +1,26 @@
+{
+  "name": "backend-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Req/backend-experiment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Req/backend-experiment/issues"
+  },
+  "homepage": "https://github.com/Req/backend-experiment#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.9"
+  }
+}
